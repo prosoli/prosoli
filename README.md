@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:B8A1FF,100:A8D8EA,100:00A8E8&height=100&section=header&text=Priscilla%20Romero%20Barquero&fontSize=40&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:B8A1FF,100:A8D8EA,100:00A8E8&height=80&section=header&text=Priscilla%20Romero%20Barquero&fontSize=40&fontColor=FFFFFF"/>
 
 
 <br/>
